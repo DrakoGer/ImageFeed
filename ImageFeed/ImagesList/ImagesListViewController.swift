@@ -31,10 +31,7 @@ final class ImagesListViewController: UIViewController {
     }
 }
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 4caa4ee066aaef57bfca8637a1293e3c6b996e1a
 // MARK: - UITableViewDataSource
 extension ImagesListViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
